@@ -63,3 +63,9 @@ Objective: Analyzing sales data to understand sales trend
 9. Identify and report the top 5 products that contribute the most to sales, using the StockCode for product information.
 
 10. Convert the 'InvoiceDate' column into a date format and determine the month in which the maximum sales occur. Provide insights based on this analysis.
+
+<br>
+<br>
+About Project- Tourist Place Generator app
+<br>
+Tourist Place generator is a small LLM based project where an application is created using chatgpt , llm, streamlit , langchain  etc framweorks. This project requires a country name that suggests the tourist places in that state of the desired country.
