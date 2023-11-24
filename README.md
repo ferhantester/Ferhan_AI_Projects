@@ -1,7 +1,8 @@
 # Ferhan_AI_Projects
 This repository contains my all artificial intelligence based projects
 <br>
-*******About Project1.pynb*****
+*******About Project1.ipynb*****
+<br>
 Part - I 
 - Variables, Data Structures
 - Loops, Conditional statements
@@ -34,10 +35,11 @@ Write a function that prints integers from 1 to 15. For multiples of three, prin
 
 
 
-
+<br>
 
 
 Part-II 
+<br>
 Dataset: Online_sales.csv
 Domain: Retail
 Objective: Analyzing sales data to understand sales trend
