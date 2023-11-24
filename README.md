@@ -1,7 +1,10 @@
 # Ferhan_AI_Projects
+<br>
 This repository contains my all artificial intelligence based projects
 <br>
-*******About Project1.ipynb*****
+<br>
+<br>
+Project(1)*******About Project1.ipynb*****
 <br>
 Part - I 
 - Variables, Data Structures
@@ -66,6 +69,10 @@ Objective: Analyzing sales data to understand sales trend
 
 <br>
 <br>
-About Project- Tourist Place Generator app
 <br>
-Tourist Place generator is a small LLM based project where an application is created using chatgpt , llm, streamlit , langchain  etc framweorks. This project requires a country name that suggests the tourist places in that state of the desired country.
+Project(2)********About Project- Tourist Place Generator app*******************
+<br>
+<br>
+Tourist Place generator is a small LLM based project where an application is created using chatgpt , llm, streamlit , langchain  etc framweorks.
+<br>
+This project requires a country name that suggests the tourist places in that state of the desired country.
