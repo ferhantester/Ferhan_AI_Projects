@@ -73,6 +73,6 @@ Objective: Analyzing sales data to understand sales trend
 Project(2)********About Project- Tourist Place Generator app*******************
 <br>
 <br>
-Tourist Place generator is a small LLM based project where an application is created using chatgpt , llm, streamlit , langchain  etc framweorks.
+Tourist Place generator is a small LLM based project where an application is created using chatgpt and framworks  like streamlit , langchain  etc.
 <br>
 This project requires a country name that suggests the tourist places in that state of the desired country.
