@@ -4,7 +4,7 @@ This repository contains my all artificial intelligence based projects
 <br>
 <br>
 <br>
-Project(1)*******About Project1.ipynb*****
+Project*******About Project1.ipynb*****
 <br>
 Part - I 
 - Variables, Data Structures
@@ -70,7 +70,7 @@ Objective: Analyzing sales data to understand sales trend
 <br>
 <br>
 <br>
-Project(2)********About Project- Tourist Place Generator app*******************
+Project********About Project- Tourist Place Generator app*******************
 <br>
 <br>
 Tourist Place generator is a small LLM based project where an application is created using chatgpt and framworks  like streamlit , langchain  etc.
@@ -79,7 +79,7 @@ This project requires a country name that suggests the tourist places in that st
 
 <br>
 <br>
-Retail Marketing exploratory Data Analysis and Data Preprocessing
+Project:Retail Marketing exploratory Data Analysis and Data Preprocessing
 Course: Programming with Python
 The project is based on exploratory data analysis and data preprocessing methods to understand the marketing campaigns and their outcomes. It involves making use of univariate and bivariate analysis, visualization methods, garbage value treatment, and data manipulation methods to answer queries related to cosumer's purchasing pattern and prepare a report for the management team.
 
