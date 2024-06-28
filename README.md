@@ -79,8 +79,11 @@ This project requires a country name that suggests the tourist places in that st
 
 <br>
 <br>
-Project:Retail Marketing exploratory Data Analysis and Data Preprocessing
+Project:*********Retail Marketing exploratory Data Analysis and Data Preprocessing*****************
+<br>
 Course: Programming with Python
+<br>
+<br>
 The project is based on exploratory data analysis and data preprocessing methods to understand the marketing campaigns and their outcomes. It involves making use of univariate and bivariate analysis, visualization methods, garbage value treatment, and data manipulation methods to answer queries related to cosumer's purchasing pattern and prepare a report for the management team.
 
 <br>
