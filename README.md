@@ -89,13 +89,13 @@ The project is based on exploratory data analysis and data preprocessing methods
 <br>
 <br>
 
-Project:***************************Data visualization on 'Customer-sales Dataset using PowerBI ***************************************
+Project:   ***************************Data visualization on 'Customer-sales Dataset using PowerBI ************
 <br>
 <br>
 This project includes dataset of customers of any company. It was first gathered, explored, cleaned and then visualized to get insights from the dashboard with the help of different kinds of charts.
 <br>
 <br>
-Project:*********************** Analyzing sales data to understand sales trend********************************
+Project:    *********************** Analyzing sales data to understand sales trend*******************
 <br>
 Dataset: Online_sales.csv
 <br>
