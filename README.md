@@ -227,7 +227,7 @@ PROJECT OBJECTIVE: Company’s management requires an automation which can creat
 <br>
 Project: Social Media Analytics
 <br>
-CONTEXT: Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtagbasedsupervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets arerepliestoother tweets and detecting sarcasm in these require the availability of contextual tweets. In this hands-onproject,
+CONTEXT: Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these require the availability of contextual tweets. In this hands-onproject,
 the goal is to build a model to detect whether a sentence is sarcastic or not, using Bi-directional LSTMs.
 <br>
 <br>
