@@ -109,5 +109,23 @@ scope minimum we are not going to actually play any music, rather focus will be 
 application that should exhibit the similar behavior. Users will be allowed to create multiple
 playlists based on their mood. Users can pick songs from any of the created playlist and will be
 allowed to play the music file they have chosen.
+<br>
+<br>
 
+Project :***********************Power Grid System********************888
+<br>
+
+Description: We have taken a scenario of a power grid system and electricity
+distribution to the houses attached with these power grids. Every power grid has power supply
+nodes/propagators that are providing power to different areas and localities more precisely to
+different houses.
+Let's assume that there is a list of propagators from P1
+to Pn, Each of these propagators are
+further connected with each other and different houses to provide the power. As we know that
+every power grid has its own capacity and providing power more than its capacity is not
+possible. Similarly each of the propagators comes with their own limitation and should not
+exhaust the assigned power limit. Each of the propagators may be connected with the H1
+to Hk to provide the power supply.
+<br>
+<br>
 
