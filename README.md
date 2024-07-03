@@ -103,4 +103,11 @@ Domain: Retail
 <br>
 <br>
 <br>
+Project : *****************Music Player system**********************************
+Description: We have chosen to mimic a music player system. To keep the
+scope minimum we are not going to actually play any music, rather focus will be to build an
+application that should exhibit the similar behavior. Users will be allowed to create multiple
+playlists based on their mood. Users can pick songs from any of the created playlist and will be
+allowed to play the music file they have chosen.
+
 
