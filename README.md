@@ -112,7 +112,7 @@ allowed to play the music file they have chosen.
 <br>
 <br>
 
-Project :***********************Power Grid System********************888
+Project :****************Power Grid System*****************
 <br>
 
 Description: We have taken a scenario of a power grid system and electricity
