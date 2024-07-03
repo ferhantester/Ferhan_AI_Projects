@@ -177,3 +177,17 @@ DATA DESCRIPTION: Each row represents a customer, each column contains customer�
 PROJECT OBJECTIVE: Build a model that will help to identify the potential customers who have a higher probabilitytochurn.This help the company to understand the pinpoints and patterns of customer churn and will increase the focusonstrategizingcustomer retention.
 <br>
 <br>
+Project: Mobile
+<br>
+DOMAIN: Mobile
+<br>
+BUSINESS CONTEXT:
+A key challenge for Mobile App businesses is to analyze the trend in the market to increase their
+sales/usage.  We have access to the user's demographic characteristics, geo-location, and mobile device properties. Thisgrouping can be done by applying different criteria like user’s data, their age group, phone brand
+compatibility and so on.  The machine learning clustering algorithms can provide an analytical method to cluster user segments withsimilar interests/habits.This will help App/mobile providers better understand and interact with their
+subscribers.
+<br>
+PROJECT OBJECTIVE:
+ We will be clustering the users into groups by selected features that significantly distinguish different brandsfromeach other and understand which factors are responsible for making the clusters.
+<br>
+<br>
