@@ -209,6 +209,11 @@ There seems to be no end to bad loans in the country. According to the Reserve B
 In This is project, we will look at various attributes such as funded amount, term, interest rates, loan amount, balance,etc. to predict if a customer will be a loan defaulter or not. PROJECT OBJECTIVE: The Goal is to predict if a customer will be a loan defaulter or not based on thegiveninputfeatures such as funded amount, term, interest rate etc.
 <br>
 <br>
-DOMIAN: Electronics and Telecommunication
+Project: Electronics and Telecommunication
+<br>
 CONTEXT: A communications equipment manufacturing company has a product which is responsible for emittinginformative signals.Company wants to build a deep learning model which can help the company to predict theequipment’s signal quality using various parameters. DATASET DESCRIPTION: The data set contains information on various signal tests performed:
-1. Parameters: Various measurable signal parameters. 2. Signal_Quality: Final signal strength or quality. PROJECT OBJECTIVE: To build a classifie
+1. Parameters: Various measurable signal parameters. 2. Signal_Quality: Final signal strength or quality.
+<br>
+PROJECT OBJECTIVE: To build a classifier which can use the given parameters to determine the signal strengthorquality.
+<br>
+<br>
