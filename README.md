@@ -95,3 +95,9 @@ Project:***************************Data visualization on 'Customer-sales Dataset
 This project includes dataset of customers of any company. It was first gathered, explored, cleaned and then visualized to get insights from the dashboard with the help of different kinds of charts.
 <br>
 <br>
+Project:*********************** Analyzing sales data to understand sales trend********************************
+Dataset: Online_sales.csv
+Domain: Retail
+<br>
+<br>
+
