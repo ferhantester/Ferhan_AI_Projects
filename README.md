@@ -191,3 +191,12 @@ PROJECT OBJECTIVE:
  We will be clustering the users into groups by selected features that significantly distinguish different brandsfromeach other and understand which factors are responsible for making the clusters.
 <br>
 <br>
+Project: Google Store App Rating Prediction
+<br>
+CONTEXT: The Play Store apps data has enormous potential to drive app-making businesses to success. However, manyappsare being developed every single day and only a few of them become profitable. It is important for developers tobeable to predict the success of their app and incorporate features which makes an app successful. We can collect appdata and user ratings from the app stores and use it to extract insightful information. A machine learning model canbeused to predict rating for a given app, which can be used to estimate success and scope of improvement.
+<br>
+PROJECT OBJECTIVE:
+The Goal is to predict the rating for an app based on the given input features like size, number of downloads etc. DATA DESCRIPTION: Web scraped data of 10k Play Store apps for analyzing the Android market. Each app(row)
+has values for category, rating, size, and more.
+<br>
+<br>
