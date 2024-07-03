@@ -153,4 +153,14 @@ We have to find-
 2.	Any 1 route (if exists) from Blue Valley to Smallville
 	<br>
 <br>
-
+Project: E commerce Reports
+<br>
+Description: you have to keep a track of how customers are liking the products of the
+company. You are keeping this track by capturing the number of likes against each Product by a customer
+In this project the focus is on learning and writing different types of CQL (Cassandra Query Language)
+statements to insert and retrieve data from a database.
+We will use the Cassandra database created in AstraDB.
+For reference, feel free to access the weekly notebooks and sessions for hints, while working on CQL in this
+project.
+<br>
+<br>
