@@ -99,8 +99,8 @@ Project:    *********************** Analyzing sales data to understand sales tre
 <br>
 Dataset: Online_sales.csv
 <br>
-<br>
 Domain: Retail
+<br>
 <br>
 <br>
 
