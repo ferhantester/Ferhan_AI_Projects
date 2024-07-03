@@ -217,3 +217,17 @@ CONTEXT: A communications equipment manufacturing company has a product which is
 PROJECT OBJECTIVE: To build a classifier which can use the given parameters to determine the signal strengthorquality.
 <br>
 <br>
+Project: Botanical research
+<br>
+CONTEXT: University X is currently undergoing some research involving understanding the characteristicsof
+flowers. They already have invested on curating sample images. They require an automation which cancreate a classifier capable of determining a flower’s species from a photo.
+<br>
+PROJECT OBJECTIVE: Company’s management requires an automation which can create a classifier capableofdetermining a flower’s species from a photo.
+<br>
+<br>
+Project: Social Media Analytics
+<br>
+CONTEXT: Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtagbasedsupervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets arerepliestoother tweets and detecting sarcasm in these require the availability of contextual tweets. In this hands-onproject,
+the goal is to build a model to detect whether a sentence is sarcastic or not, using Bi-directional LSTMs.
+<br>
+<br>
