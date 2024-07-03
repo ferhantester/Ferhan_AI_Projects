@@ -126,4 +126,19 @@ exhaust the assigned power limit. Each of the propagators may be connected with 
 to Hk to provide the power supply.
 <br>
 <br>
+Project: Divide and conquer
+<br>
+Description: Consulting for an IoT firm. The firm has placed multiple sensor devices in an
+organization where data is being collected at a rapid rate.
+The IoT firm has designed a master-slave architecture where multiple sensors are responding to
+a single master node. It means that even though these devices have different ID and storage
+capacity, all the data collected by them is going to a specific master node. The master node can
+be considered as a simple raspberry pi device. All the sensors that are forwarding data to a
+particular raspberry pi will have its information stored for the data forwarding.
+In the beginning the firm has not planned for load balancing. As the number of sensors/devices
+increased and the firm engineers kept on assigning the devices to a master/raspberry pi based
+on the maximum capacity, it created a unique problem where some of the raspberry pi or master
+nodes are overloaded and some of them are under loaded.
+<br>
+<br>
 
