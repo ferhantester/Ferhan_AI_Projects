@@ -79,7 +79,7 @@ This project requires a country name that suggests the tourist places in that st
 
 <br>
 <br>
-Project:*********Retail Marketing exploratory Data Analysis and Data Preprocessing*****************
+Project:Retail Marketing exploratory Data Analysis and Data Preprocessing
 <br>
 Course: Programming with Python
 <br>
@@ -89,13 +89,13 @@ The project is based on exploratory data analysis and data preprocessing methods
 <br>
 <br>
 
-Project:   ***************************Data visualization on 'Customer-sales Dataset using PowerBI ************
+Project:  Data visualization on 'Customer-sales Dataset using PowerBI 
 <br>
 <br>
 This project includes dataset of customers of any company. It was first gathered, explored, cleaned and then visualized to get insights from the dashboard with the help of different kinds of charts.
 <br>
 <br>
-Project:    *********************** Analyzing sales data to understand sales trend*******************
+Project:     Analyzing sales data to understand sales trend
 <br>
 Dataset: Online_sales.csv
 <br>
@@ -103,7 +103,7 @@ Domain: Retail
 <br>
 <br>
 <br>
-Project : *****************Music Player system**********************************
+Project : Music Player system
 Description: We have chosen to mimic a music player system. To keep the
 scope minimum we are not going to actually play any music, rather focus will be to build an
 application that should exhibit the similar behavior. Users will be allowed to create multiple
