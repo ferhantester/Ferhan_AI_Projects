@@ -96,7 +96,10 @@ This project includes dataset of customers of any company. It was first gathered
 <br>
 <br>
 Project:*********************** Analyzing sales data to understand sales trend********************************
+<br>
 Dataset: Online_sales.csv
+<br>
+<br>
 Domain: Retail
 <br>
 <br>
