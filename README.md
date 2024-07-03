@@ -83,14 +83,12 @@ Project:Retail Marketing exploratory Data Analysis and Data Preprocessing
 <br>
 Course: Programming with Python
 <br>
-<br>
 The project is based on exploratory data analysis and data preprocessing methods to understand the marketing campaigns and their outcomes. It involves making use of univariate and bivariate analysis, visualization methods, garbage value treatment, and data manipulation methods to answer queries related to cosumer's purchasing pattern and prepare a report for the management team.
 
 <br>
 <br>
 
 Project:  Data visualization on 'Customer-sales Dataset using PowerBI 
-<br>
 <br>
 This project includes dataset of customers of any company. It was first gathered, explored, cleaned and then visualized to get insights from the dashboard with the help of different kinds of charts.
 <br>
@@ -102,7 +100,7 @@ Dataset: Online_sales.csv
 Domain: Retail
 <br>
 <br>
-<br>
+
 Project : Music Player system
 <br>
 Description: We have chosen to mimic a music player system. To keep the
@@ -115,7 +113,6 @@ allowed to play the music file they have chosen.
 
 Project : Power Grid System
 <br>
-
 Description: We have taken a scenario of a power grid system and electricity
 distribution to the houses attached with these power grids. Every power grid has power supply
 nodes/propagators that are providing power to different areas and localities more precisely to
