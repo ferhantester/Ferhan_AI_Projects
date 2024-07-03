@@ -200,3 +200,12 @@ The Goal is to predict the rating for an app based on the given input features l
 has values for category, rating, size, and more.
 <br>
 <br>
+Project: Bank Loan Defaulter Prediction
+<br>
+DOMIAN: Finance and Banking
+<br>
+CONTEXT:
+There seems to be no end to bad loans in the country. According to the Reserve Bank of India, the overall badloansasof March 2021 stood at INR 8.35 lakh crore, compared to INR 8.96 lakh crore in March 2020. Banks run into losses when a customer doesn't pay their loans on time. Because of this, every year, bankshavelossesin crores, and this also impacts the country's economic growth to a large extend.
+In This is project, we will look at various attributes such as funded amount, term, interest rates, loan amount, balance,etc. to predict if a customer will be a loan defaulter or not. PROJECT OBJECTIVE: The Goal is to predict if a customer will be a loan defaulter or not based on thegiveninputfeatures such as funded amount, term, interest rate etc.
+<br>
+<br>
