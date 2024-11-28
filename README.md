@@ -231,3 +231,11 @@ CONTEXT: Past studies in Sarcasm Detection mostly make use of Twitter datasets c
 the goal is to build a model to detect whether a sentence is sarcastic or not, using Bi-directional LSTMs.
 <br>
 <br>
+Capstone Project: Food object image classification
+<br>
+
+Food picture categorization is a major computer vision challenge with applications ranging from automated food business services to dietary monitoring and food recommendation systems. In order to increase the precision of food image categorization, this study investigates three different approaches: a basic CNN ensemble, an ensemble of pretrained VGG16 models, and a single pretrained VGG16 model. The dataset used in the study is made up of food photos that have been divided into training and testing subsets and classified into 17 different groups. The first method, which used a basic CNN ensemble, showed only modest success in classifying and extracting features. The second method produced better results by combining features from different models and using transfer learning to create an ensemble of pretrained VGG16 models. Out of all the strategies examined, the third and final strategy had the highest classification accuracy since it only used one pretrained VGG16 model. Extensive pretraining on a large-scale dataset improved this model's performance overall and its ability to extract features. The study illustrates the benefits of pretrained models for challenging picture classification problems and shows how sophisticated architectures can significantly improve accuracy. These findings imply that performance in food picture classification applications can be greatly enhanced by utilizing transfer learning and adding pretrained models.
+Keywords: Food Image Classification, Convolutional Neural Networks, Ensembling Techniques, VGG16, Data Augmentation, Early Stopping
+
+<br>
+<br>
